@@ -1,0 +1,24 @@
+Type;Name,Short,Letter:Codons
+nonpolar;Phenylalanine,Phe,F:UUU,UUC
+nonpolar;Leucine,Leu,L:UUA,UUG,CUU,CUC,CUA,CUG
+nonpolar;Isoleucine,Ile,I:AUU,AUC,AUA
+nonpolar;Methionine,Met,M:AUG
+nonpolar;Valine,Val,V:GUU,GUC,GUA,GUG
+nonpolar;Proline,Pro,P:CCU,CCC,CCA,CCG
+nonpolar;Alanine,Ala,A:GCU,GCC,GCA,GCG
+nonpolar;Tryptophan,Trp,W:UGG
+nonpolar;Glycine,Gly,G:GGU,GGC,GGA,GGG
+polar;Serine,Ser,S:UCU,UCC,UCA,UCG,AGU,AGC
+polar;Threonine,Thr,T:ACU,ACC,ACA,ACG
+polar;Tyrosine,Try,Y:UAU,UAC
+polar;Glutamine,Gln,Q:CAA,CAG
+polar;Aspargine,Asn,N:AAU,AAC
+polar;Cysteine,Cys,C:UGU,UGC
+basic;Histidine,His,H:CAU,CAC
+basic;Lysine,Lys,K:AAA,AAG
+basic;Arginine,Arg,R:CGU,CGC,CGA,CGG,AGA,AGG
+acidic;Aspartic acid,Asp,D:GAU,GAC
+acidic;Glutamic acid,Glu,E:GAA,GAG
+stop;Ochre,Ochre,Ochre:UAA
+stop;Amber,Amber,Amber:UAG
+stop;Opal,Opal,Opal:UGA
